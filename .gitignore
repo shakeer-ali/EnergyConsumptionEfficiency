@@ -1,4 +1,0 @@
-from google.colab import files
-
-uploaded = files.upload()
-list(uploaded.keys())
